@@ -2,7 +2,7 @@ let musicas = [
     {titulo:'Colheita', artista:'Ogsanty - Menor da cp, Dr.Orion e McvintecincoDoBf', src:'songs/colheita-part.ogsainty-dr.orion-mc-vinte-cinco-do-bf-menor-da-cp.mp3', img:'imagens/colheita.jpg'},
     {titulo:'Agradeço a Deus', artista:'Mc VinteCincoDoBF e Biel Bronks', src:'songs/y2mate.bz - agradeço-a-deus-biel-bronks-mc-vintecinco-do-bf-v_-deo-clipe.mp3', img:'imagens/abençoado.jpg'},
     {titulo:'Vida de Artista', artista:'Mc Menor da cp - PedreamMc, Mc Pg do Go, Mc Vintecinco do bf ', src:'songs/y2mate.bz - vida-de-artista-menor-da-cp-pedream-mc-mc-pg-do-go-mc-vintecinco-do-bf-prod.mandralab.mp3', img:'imagens/vida de artista.jpg'}
-    {titulo:'Sistema Falho', artista:'Dr.Orion', src:'songs/SISTEMA FALHO.mp3', img:'imagens/sistema falho.jpg'}
+    {titulo:'Sistema Falho', artista:'Dr.Orion', src:'songs/SISTEMA FALHO.mp3', img:'imagens/sistema falho.jpg'},
 ];
 
 let musica = document.querySelector('audio');
